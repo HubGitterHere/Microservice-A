@@ -16,4 +16,6 @@ example receive
 
   How to Quit:
     send a multipart request where either the first or second item is 'Q'. That will stop the server.
+
+![Screen shot of UML Sequence Diagram]("C:\Users\justj\OneDrive\Desktop\School\Software Engineering\CS361 Assignment 8\UML Diagram.pdf")
     
