@@ -4,12 +4,12 @@ Contains program for microservice A (ExpirationDateServer.py) And a program to t
 
 You can contact me through Discord. My account is joseph11112496.
 
-How to REQUEST Data:
+##How to REQUEST Data:
   The server requires a multipart request. That means you need to make an array with atleast two items. The first should be a food item, and the second the expiration date of the food item.
 example request:
   request = [foodItem.encode(), expirationDate.strftime("%Y-%m-%d").encode()]
   socket.send_multipart(request)
-How to RECEIVE Data:
+##How to RECEIVE Data:
   The server sends back a string saying" "{food_item} is {reply}". Reply becomes expired if the expiration date is passed the current date, and not expired otherwise.
 example receive
   message = socket.recv()
