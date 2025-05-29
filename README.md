@@ -20,7 +20,7 @@ You can contact me through Discord. My account is joseph11112496.
 
 ## How to Quit:
     send a multipart request where either the first or second item is 'Q'. That will stop the server.
-![UML Sequence Diagram.pdf] (https://github.com/user-attachments/files/20266538/UML.Sequence.Diagram.pdf)
+![UML Sequence Diagram.pdf](https://github.com/user-attachments/files/20266538/UML.Sequence.Diagram.pdf)
 
 
 
