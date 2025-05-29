@@ -21,6 +21,7 @@ You can contact me through Discord. My account is joseph11112496.
 ### example quit
     socket.send_multipart(['Q'.encode(), 'Q'.encode()])
     
+## UML Sequence Diagram
 ![alt test](UMLSequenceDiagram.png "UML Sequence Diagram")
 
 
