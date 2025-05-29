@@ -20,6 +20,6 @@ You can contact me through Discord. My account is joseph11112496.
 
 ## How to Quit:
     send a multipart request where either the first or second item is 'Q'. That will stop the server.
-![alt test]([[UMLSequenceDiagram.pdf](https://github.com/HubGitterHere/Microservice-A/blob/aafd0c4b5bf7c135f114d3a5dc77a8b870ae84b5/UMLSequenceDiagram.pdf](https://github.com/HubGitterHere/Microservice-A/blob/cc88d7762d6a3cc564bd8807000cc0e9ae3207eb/UMLSequenceDiagram.png)) "UML Sequence Diagram")
+![alt test](UMLSequenceDiagram.png "UML Sequence Diagram")
 
 
